@@ -3798,6 +3798,10 @@ Back To Top Section
   margin-bottom: 0;
   text-align: center; }
 
+  .shadow-lg {
+    border-radius: 20px;
+  }
+
 /**
  * 7. - RESPONSIVE
  * -----------------------------------------------------------------------------
