@@ -3808,3 +3808,7 @@ Back To Top Section
  */
 
 /*# sourceMappingURL=style.css.map */
+.youtube-video {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+}
